@@ -177,3 +177,6 @@ I learned how to create a private NAT Network and connect Kali to it.
 I learned how to check the network in Kali using the terminal and how to test internet and DNS.
 
 I also learned how to take a snapshot, so I can restore my lab if anything goes wrong.
+
+Check out my Linkedin Post Here:
+https://www.linkedin.com/posts/aisha-khan-082446376_networkwalks-cybersecurity-kalilinux-activity-7523710162847842304-EJuf?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFz4POIBuzLy4HLMi1c6CZ4TJx4PEOMETqc&utm_campaign=copy_link
